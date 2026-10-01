@@ -1,7 +1,7 @@
 # Prioritization & Roadmapping, Module 2 Lab
 
 ## Prioritize your Rocks and your Hard Nos
-- **Rock #1:** Redesign onboarding flow based on 40% drop-off data. 
+- **Rock #1:**  Redesign onboarding flow based on 40% drop-off data. 
 
 Impact: 5 / Effort: 2. The evolving Fable journey starts on Day 1. It directly supports the new strategy while addressing the proven 40% onboarding drop-off.
 - **Rock #2:** Add a daily streak feature to drive habit formation
